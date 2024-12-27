@@ -1,2 +1,15 @@
 # joins-practice-in-sql
-codetech internship task 1
+
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: REDLAPALLI HEMA VARUN
+
+**INTERN ID**: CT08GRT
+
+**DOMAIN**: SQL
+
+**BATCH DURATION**: December 25th,2024 to January 25th,2025
+
+**MENTOR NAME**: Neela Santhosh Kumar
+
+# ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS
